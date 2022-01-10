@@ -1,4 +1,4 @@
-# Flux version 2.1.1.
+# Flux version 2.1.1.lw
 
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/4782/badge)](https://bestpractices.coreinfrastructure.org/projects/4782)
 [![e2e](https://github.com/fluxcd/flux2/workflows/e2e/badge.svg)](https://github.com/fluxcd/flux2/actions)
